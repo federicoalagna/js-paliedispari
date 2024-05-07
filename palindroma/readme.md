@@ -4,4 +4,4 @@
 
 --inverto la parola e verifico se è uguale confrontandola a quella iniziale
 
---se è uguale stampo in console
+--se è uguale stampo in console che la parola è palindroma, altrimenti scrivo che non lo è
